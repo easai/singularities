@@ -1,6 +1,5 @@
 # singularities
 
-sympy.integrals.singularityfunctions.singularityintegrate(f, x)
-
-principle
-classificagion
+## Singularities
+- [Jupyter Notebook (interactive)](https://github.com/easai/singularities/blob/main/singularities.ipynb)
+- [HTML]()
